@@ -6,8 +6,13 @@
 mindmap
   root((phases))
     Inform
+      Forecasting
       Realtime decision making
         Spotting outlying data
+        Integrate to internal systems
+        Shared cost allocation
+        Make recommendations
+        
       Visibility
       ::icon(fa fa-book)
         Consuming Teams
@@ -26,3 +31,5 @@ mindmap
 Term | Description
 ---- | -----------
 Fully Loaded Costs | 
+Showbacks  | 
+Chargebacks
