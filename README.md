@@ -21,6 +21,10 @@ mindmap
     Optimise
       Identify
       Value for effort
+      Evaluate discounts from provider
+        RI
+        Spot
+        Discounts
     Operate
       Processes
       Automation
