@@ -88,9 +88,17 @@ mindmap
 
 ## Terms
 
+Some real FinOpsy terms to be familiar with.
+
 Term | Description
 ---- | -----------
-Fully Loaded Costs | 
-Showbacks  | 
-Chargebacks |
+Vacancy | Not using commitment based discounts (Reserved Instances) fully
+Fully Loaded Costs |  Reflect the true cost, factoring in shared costs and mapped to the org
+Blended rates | The effective rate, factoring in discounts etc
+Unblended rates | The raw rates that could include more complex, time based pricing models
+Showbacks  | Shows expenses to org department but keeps them in a central budget
+Chargebacks | Sends expenses to org departnment
 Cloud Unit Economics | Org specific KPI's to measure FinOps success against. Eg. Cost per item/user/gb
+Rate Optimisation | Changing the price through discounts like Reserved Instances
+Usage Optimisation | Rightsizing, turning unused resources off
+Workload management | Only running resoruces when needed
