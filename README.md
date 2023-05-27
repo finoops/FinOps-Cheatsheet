@@ -6,10 +6,13 @@
 mindmap
   root((phases))
     Inform
+      Realtime decision making
+        Spotting outlying data
       Visibility
       ::icon(fa fa-book)
         Consuming Teams
         Stakeholders 
+
     Optimise
       Identify
       Value for effort
@@ -17,3 +20,9 @@ mindmap
       Processes
       Automation
 ```
+
+## Terms
+
+Term | Description
+---- | -----------
+Fully Loaded Costs | 
