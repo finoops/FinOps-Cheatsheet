@@ -39,7 +39,7 @@ https://www.finops.org/framework/domains/
 
 ```mermaid
 mindmap
-  root((phases))
+  root((domains))
     Understanding Usage and Cost
       Measure UNIT cost
       Anomalies
