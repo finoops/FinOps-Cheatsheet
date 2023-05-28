@@ -1,5 +1,7 @@
 # FinOps-Cheatsheet
 
+This cheatsheet was assembled during my prep for the FinOps Certified Practitioner exam. Creating mindmaps, to layout the terms and categorisation is a great preparation strategy. 
+
 ## FinOps Lifecycle
 
 ```mermaid
