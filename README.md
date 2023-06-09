@@ -33,7 +33,7 @@ mindmap
 ```
 
 
-## FinOps Domains
+## FinOps Domains & Capabilities
 
 https://www.finops.org/framework/domains/
 
